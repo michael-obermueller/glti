@@ -7,7 +7,7 @@ func InitGltiAgent(env *glti.GLTIEnv) {
 
 }
 
-// ShutdownGltiAgent is called by Go runtime to gracefully shutdown the agent plugin.
+// ShutdownGltiAgent is called by Go runtime to gracefully shut down the agent plugin.
 func ShutdownGltiAgent(exitcode int) {
 
 }
