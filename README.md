@@ -1,6 +1,10 @@
-# GLTI API
+# GLTI Proposal
 
-This project contains the source code of the GLTI (Golang tool interface) API proposal.
+This project contains files of the GLTI (Golang tool interface) proposal.
+
+[Read the proposal](./Proposal.md)
+
+GLTI source code:
 
 - [GLTI](./api/goruntime/glti/GLTI.go)
   - [AgentPluginLoader](./api/goruntime/glti/AgentPluginLoader.go)
